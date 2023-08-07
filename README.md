@@ -1,5 +1,5 @@
 <p align="justify">
-Welcome to my GitHub page! I'm Florin Mesca, a passionate junior full stack web developer with a love for technology and web development. Here, you will find various interesting projects I've worked on, using HTML, CSS, JavaScript, Bootstrap, jQuery, PHP, and MySQL. My goal is to create functional and innovative web applications. I am committed to continuous learning, and soon, I plan to add TypeScript, React, and React Native to my skillset. Balancing work and personal life is essential to me, and in my free time, I enjoy exploring nature and dedicating myself to personal projects. Join me on this exciting journey through the world of web development!
+Welcome to my GitHub page! I'm Florin Mesca, a passionate junior full stack web developer with a love for technology and web development. Here, you will find various interesting projects I've worked on, using HTML, CSS, JavaScript, Bootstrap, jQuery, PHP, and MySQL. My goal is to create functional and innovative web applications. I am committed to continuous learning, and soon, I plan to add TypeScript, React, and React Native to my skillset.
 </p>
 
 ## My favorite tools and technologies ⚙️
