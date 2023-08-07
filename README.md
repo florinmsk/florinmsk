@@ -48,6 +48,16 @@ Welcome to my GitHub page! I'm Florin Mesca, a passionate junior full stack web 
      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
    </td>   
+ </tr>
+    <tr>
+   <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
+      <br>Photoshop
+   </td>
+   <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
+      <br>Illustrator
+   </td>   
  </tr> 
 </table>
 
