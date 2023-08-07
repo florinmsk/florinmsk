@@ -46,7 +46,7 @@ Welcome to my GitHub page! I'm Florin Mesca, a passionate junior full stack web 
    </td>
    <td align="center" width="96">
      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>mySQL
+      <br>MySQL
    </td>   
  </tr> 
 </table>
