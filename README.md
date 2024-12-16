@@ -45,6 +45,10 @@ Welcome to my GitHub page! I'm Florin Mesca, a passionate junior full stack web 
       <br>PHP
    </td>
    <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
+      <br>Laravel
+   </td>    
+   <td align="center" width="96">
      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
    </td>   
