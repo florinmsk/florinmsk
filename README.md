@@ -22,8 +22,10 @@ Welcome to my GitHub page! I'm Florin Mesca, a passionate junior full stack web 
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Bootstrap
+      <br>Tailwind
     </td>    
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="javascript" />
       <br>JavaScript
