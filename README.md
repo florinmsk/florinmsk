@@ -33,6 +33,11 @@ Welcome to my GitHub page! I'm Florin Mesca, a passionate junior full stack web 
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       <br>JQuery
+        </td>      
+    <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
+      <br>React
+    </td>  
   </tr>
   </tr>
 <!--  <tr>
