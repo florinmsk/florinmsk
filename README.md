@@ -39,7 +39,6 @@ Welcome to my GitHub page! I'm Florin Mesca, a passionate junior full stack web 
       <br>React
     </td>  
   </tr>
-  </tr>
 <!--  <tr>
    <td align="center" width="96">
      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
